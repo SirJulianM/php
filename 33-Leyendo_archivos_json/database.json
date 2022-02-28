@@ -1,0 +1,13 @@
+{
+    "db": {
+        "servidor": "localhost",
+        "usuario": "root",
+        "password": "1234",
+        "tabla": "SoftwareEvolution"
+    },
+    "usuario": {
+        "nombre": "Julian Esteban",
+        "apellidos": "Madrid Ospina",
+        "activo": true
+    }
+}
