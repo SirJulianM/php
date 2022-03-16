@@ -21,4 +21,9 @@ echo "Has visitado esta página ".$_SESSION["contador"]." veces"."<br />";
 
 session_destroy();
 print_r($_SESSION); 
+/*
+
+*Para eliminar un valor de una sesión puedes utilizar el valor unset
+
+*/
 ?>
